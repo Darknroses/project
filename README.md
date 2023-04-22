@@ -37,24 +37,27 @@ addon | version | maintainers | summary
 [project_stage_mgmt](project_stage_mgmt/) | 14.0.1.0.0 | [![DavidJForgeFlow](https://github.com/DavidJForgeFlow.png?size=30px)](https://github.com/DavidJForgeFlow) | Allows to assign and create stages on project creation wizard
 [project_stage_state](project_stage_state/) | 14.0.1.1.0 |  | Restore State attribute removed from Project Stages in 8.0
 [project_status](project_status/) | 14.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Status
-[project_stock](project_stock/) | 14.0.1.1.2 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
-[project_stock_product_set](project_stock_product_set/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Product Set
+[project_stock](project_stock/) | 14.0.1.1.4 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
+[project_stock_product_set](project_stock_product_set/) | 14.0.1.0.2 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Product Set
 [project_stock_request](project_stock_request/) | 14.0.1.0.0 |  | Create stock requests from a projects and project tasks
-[project_tag](project_tag/) | 14.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Tags
-[project_task_add_very_high](project_task_add_very_high/) | 14.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Adds extra options 'High' and 'Very High' on tasks
+[project_tag](project_tag/) | 14.0.1.1.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Tags
+[project_task_add_very_high](project_task_add_very_high/) | 14.0.1.1.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Adds extra options 'High' and 'Very High' on tasks
 [project_task_code](project_task_code/) | 14.0.1.0.2 |  | Sequential Code for Tasks
 [project_task_default_stage](project_task_default_stage/) | 14.0.1.1.0 |  | Recovery default task stages for projects from v8
 [project_task_dependency](project_task_dependency/) | 14.0.1.1.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Enables to define dependencies (other tasks) of a task
 [project_task_digitized_signature](project_task_digitized_signature/) | 14.0.1.0.0 |  | Project Task Digitized Signature
 [project_task_material](project_task_material/) | 14.0.1.0.0 |  | Record products spent in a Task
 [project_task_pull_request](project_task_pull_request/) | 14.0.1.1.0 |  | Adds a field for a PR URI to project tasks
+[project_task_recurring_activity](project_task_recurring_activity/) | 14.0.1.0.0 | [![dessanhemrayev](https://github.com/dessanhemrayev.png?size=30px)](https://github.com/dessanhemrayev) [![CetmixGitDrone](https://github.com/CetmixGitDrone.png?size=30px)](https://github.com/CetmixGitDrone) | Project Task Recurring Activity
+[project_task_send_by_mail](project_task_send_by_mail/) | 14.0.1.0.0 |  | Send task report by email
 [project_template](project_template/) | 14.0.1.2.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Templates
 [project_template_milestone](project_template_milestone/) | 14.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Adds function to copy of milestones when creating a project from template
 [project_timeline](project_timeline/) | 14.0.1.4.0 |  | Timeline view for projects
-[project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 14.0.1.0.0 |  | Shows the progress of tasks on the timeline view.
+[project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 14.0.1.0.1 |  | Shows the progress of tasks on the timeline view.
 [project_timeline_task_dependency](project_timeline_task_dependency/) | 14.0.1.0.0 |  | Render arrows between dependencies.
 [project_timesheet_time_control](project_timesheet_time_control/) | 14.0.1.1.0 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Project timesheet time control
 [project_timesheet_time_control_sale](project_timesheet_time_control_sale/) | 14.0.1.0.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) [![bosd](https://github.com/bosd.png?size=30px)](https://github.com/bosd) | Make 'Project timesheet time control' and 'Sales Timesheet' work together
+[project_wbs](project_wbs/) | 14.0.1.0.0 |  | Apply Work Breakdown Structure
 
 [//]: # (end addons)
 

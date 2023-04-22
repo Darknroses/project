@@ -35,6 +35,8 @@ setuptools.setup(
         'odoo14-addon-project_task_digitized_signature',
         'odoo14-addon-project_task_material',
         'odoo14-addon-project_task_pull_request',
+        'odoo14-addon-project_task_recurring_activity',
+        'odoo14-addon-project_task_send_by_mail',
         'odoo14-addon-project_template',
         'odoo14-addon-project_template_milestone',
         'odoo14-addon-project_timeline',
@@ -42,6 +44,7 @@ setuptools.setup(
         'odoo14-addon-project_timeline_task_dependency',
         'odoo14-addon-project_timesheet_time_control',
         'odoo14-addon-project_timesheet_time_control_sale',
+        'odoo14-addon-project_wbs',
     ],
     classifiers=[
         'Programming Language :: Python',
